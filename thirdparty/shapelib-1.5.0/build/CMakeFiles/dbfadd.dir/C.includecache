@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gs/Shapfileplanning/thirdparty/shapelib-1.5.0/dbfadd.c
+string.h
+-
+math.h
+-
+stdlib.h
+-
+shapefil.h
+/home/gs/Shapfileplanning/thirdparty/shapelib-1.5.0/shapefil.h
+
+/home/gs/Shapfileplanning/thirdparty/shapelib-1.5.0/shapefil.h
+stdio.h
+-
+dbmalloc.h
+-
+cpl_conv.h
+/home/gs/Shapfileplanning/thirdparty/shapelib-1.5.0/cpl_conv.h
+

@@ -1,0 +1,10 @@
+s?\./shpcreate?/home/gs/Shapfileplanning/thirdparty/shapelib-1.5.0/build/shpcreate?
+s?\./shpadd?/home/gs/Shapfileplanning/thirdparty/shapelib-1.5.0/build/shpadd?
+s?\./shpdump?/home/gs/Shapfileplanning/thirdparty/shapelib-1.5.0/build/shpdump?
+s?\./shprewind?/home/gs/Shapfileplanning/thirdparty/shapelib-1.5.0/build/shprewind?
+s?\./dbfcreate?/home/gs/Shapfileplanning/thirdparty/shapelib-1.5.0/build/dbfcreate?
+s?\./dbfadd?/home/gs/Shapfileplanning/thirdparty/shapelib-1.5.0/build/dbfadd?
+s?\./dbfdump?/home/gs/Shapfileplanning/thirdparty/shapelib-1.5.0/build/dbfdump?
+s?\./shptreedump?/home/gs/Shapfileplanning/thirdparty/shapelib-1.5.0/build/shptreedump?
+s?\./shptest?/home/gs/Shapfileplanning/thirdparty/shapelib-1.5.0/build/shptest?
+s?\./shputils?/home/gs/Shapfileplanning/thirdparty/shapelib-1.5.0/build/shputils?

@@ -1,0 +1,4 @@
+/home/gs/Shapfileplanning/build/CMakeFiles/rebuild_cache.dir
+/home/gs/Shapfileplanning/build/CMakeFiles/edit_cache.dir
+/home/gs/Shapfileplanning/build/CMakeFiles/ShapefileReaderApp.dir
+/home/gs/Shapfileplanning/build/CMakeFiles/ShapefileCppLib.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libshp.so.1 -o libshp.so.1.5.0 CMakeFiles/shp.dir/shpopen.c.o CMakeFiles/shp.dir/dbfopen.c.o CMakeFiles/shp.dir/safileio.c.o CMakeFiles/shp.dir/shptree.c.o CMakeFiles/shp.dir/sbnsearch.c.o  -Wl,-rpath,:::::::::::::: -lm 

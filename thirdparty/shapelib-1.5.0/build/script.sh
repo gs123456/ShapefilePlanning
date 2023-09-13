@@ -1,0 +1,1 @@
+/bin/sed -f script.sed < $1 >| $2

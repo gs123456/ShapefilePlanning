@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/shptreedump.dir/shptreedump.c.o -o shptreedump  -Wl,-rpath,/home/gs/Shapfileplanning/thirdparty/shapelib-1.5.0/build: libshp.so.1.5.0 -lm 

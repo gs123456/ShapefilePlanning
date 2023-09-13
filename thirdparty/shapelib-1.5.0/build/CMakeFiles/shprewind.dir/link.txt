@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/shprewind.dir/shprewind.c.o -o shprewind  -Wl,-rpath,/home/gs/Shapfileplanning/thirdparty/shapelib-1.5.0/build: libshp.so.1.5.0 -lm 
